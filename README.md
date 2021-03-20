@@ -1,4 +1,4 @@
-# 3D-Software-Engine
+# 3D Software Engine
 
 Renders 3D Images. Built to assist in understanding how modern 3D works with our GPU's.
 
